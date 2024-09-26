@@ -55,6 +55,15 @@ This project provides a fully automated system for deploying, managing, and scal
 
  - **infra_automation.py** : A single script using boto3 that creates entire infrastructure and Teardown everything (refer **Teardown.py** as well) when application is no longer needed ( as per script it will decommsion after 1 hour)
 
+ - ### Output of infra_automation.py
+   ![image](https://github.com/user-attachments/assets/b6b19312-e20f-4bcd-9a60-7a88471fddac)
+
+
+### Static S3 bucket output:
+![image](https://github.com/user-attachments/assets/d5003751-bc68-4949-8451-ae1da0ac6ff2)
+
+
+
 
 
   
